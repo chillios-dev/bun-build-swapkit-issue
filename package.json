@@ -1,0 +1,15 @@
+{
+  "name": "example-build-issue",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest",
+    "typescript": "5.3.3"
+  },
+  "dependencies": {
+    "@swapkit/core": "1.0.0-rc.72",
+    "@swapkit/toolbox-utxo": "1.0.0-rc.59",
+    "@swapkit/toolbox-cosmos": "1.0.0-rc.60",
+    "@swapkit/wallet-keystore": "1.0.0-rc.69"
+  }
+}
